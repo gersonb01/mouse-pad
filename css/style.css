@@ -1,0 +1,21 @@
+.fundo-bg {
+  background-image: url(/img/bg-mouse-pad@2x.png);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  width: 80%;
+  height: 600px;
+  border-radius: 40px;
+  margin: auto;
+}
+.logo-pad {
+  width: 250px;
+  margin: 40px 0 0 60px;
+  position: absolute;
+}
+.mouse-img {
+  width: 280px;
+  margin-top: 150px;
+  margin-left: 60%;
+  position: relative;
+}
